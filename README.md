@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sumed</h1>
 <h3 align="left">A Data Analyst from Austin, TX</h3>
 
-- 🔭 I’m currently working on [tweet stock analysis](https://github.com/tflynn615/Tweet_Stock_Analysis)
+- 🔭 I’m currently working on [tweet stock analysis](https://github.com/xumed001/Tweet_Stock_Analysis)
 
 - 🌱 I’m currently learning **tensorflow**
 
