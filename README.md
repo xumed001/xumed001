@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/xumed001?tab=repositories)
 
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/sumed-tamang-738102204/)
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/sumed-tamang-738102204/) | xumed001@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
