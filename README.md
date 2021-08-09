@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [tweet stock analysis](https://github.com/xumed001/Tweet_Stock_Analysis)
 
-- 🌱 I’m currently learning **tensorflow**
+- 🌱 I’m currently learning **TensorFlow**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/xumed001?tab=repositories)
+- 👨‍💻 All of my projects are available at [here!](https://github.com/xumed001?tab=repositories)
 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/sumed-tamang-738102204/) | xumed001@gmail.com
 
