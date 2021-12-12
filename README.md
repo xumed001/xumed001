@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sumed</h1>
-<h3 align="left">Data Analyst based in Austin, TX</h3>
+<h3 align="left"></h3>
 
 -  🌱  I’m currently learning **TensorFlow** and everything related to **Data Analytics**
 
