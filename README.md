@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sumed</h1>
 <h3 align="left"></h3>
 
--  🌱  I’m always learning everything related to **Data Analysis & Visualization**
+-  🌱  I’m currently learning everything related to **Data Analysis & Visualization**
 
 -  👨‍💻  All of my projects are available at [here!](https://github.com/xumed001?tab=repositories)
 
