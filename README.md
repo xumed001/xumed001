@@ -9,16 +9,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank">
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/xumed001/github-readme-stats)
 
-
-<!-- </p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=xumed001&show_icons=true&locale=en" alt="xumed001" />
-
-</p> -->
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xumed001&show_icons=true&locale=en&layout=compact" alt="xumed001" /></p>
 
