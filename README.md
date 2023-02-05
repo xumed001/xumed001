@@ -8,8 +8,8 @@
 -  📫  How to reach me [linkedin](https://www.linkedin.com/in/sumed-t-738102204) | xumed001@gmail.com
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumed001)](https://github.com/xumed001/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumed001)](https://github.com/xumed001/github-readme-stats) -->
 
 
