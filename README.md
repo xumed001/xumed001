@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Xumed</h1>
 <h3 align="left"></h3>
 
--  🌱  I’m currently learning everything about **Frontend Web Development**
+-  🌱  I’m currently learning **Frontend Web Development**
 
--  👨‍💻  All of my projects are available at [here!](https://github.com/xumed001?tab=repositories)
+-  👨‍💻  I enjoy crafting elegant websites that seamlessly blend functionality and aesthetics
 
 <!-- -  📫  How to reach me [linkedin](https://www.linkedin.com/in/xumed001/) | xumed001@gmail.com -->
 
