@@ -3,8 +3,6 @@
 
 -  🌱  I enjoy making websites
 
--  👨‍💻  I enjoy crafting elegant websites that seamlessly blend functionality and aesthetics
-
 <!-- -  📫  How to reach me [linkedin](https://www.linkedin.com/in/xumed001/) | xumed001@gmail.com 
     -  👨‍💻  I enjoy crafting elegant websites that seamlessly blend functionality and aesthetics
 -->
