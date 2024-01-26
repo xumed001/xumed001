@@ -1,11 +1,13 @@
 <h1 align="left">Hi 👋, I'm Xumed</h1>
 <h3 align="left"></h3>
 
--  🌱  I’m currently learning **Frontend Web Development**
+-  🌱  I enjoy making websites
 
 -  👨‍💻  I enjoy crafting elegant websites that seamlessly blend functionality and aesthetics
 
-<!-- -  📫  How to reach me [linkedin](https://www.linkedin.com/in/xumed001/) | xumed001@gmail.com -->
+<!-- -  📫  How to reach me [linkedin](https://www.linkedin.com/in/xumed001/) | xumed001@gmail.com 
+    -  👨‍💻  I enjoy crafting elegant websites that seamlessly blend functionality and aesthetics
+-->
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
