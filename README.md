@@ -2,7 +2,7 @@
 <h3 align="left"></h3>
 
 - 👋 Hello there! I am a Passionate problem solver and tech enthusiast. With a background in product operations and data analysis, I thrive on turning challenges into opportunities.
--  🌱 I also enjoy making websites and data visualizations
+-  🌱 I enjoy making websites and data visualizations
 -  💡 Love crafting seamless solutions and bringing ideas to life.
 -  💻 Constantly exploring new technologies and committed to making a positive impact.
 
