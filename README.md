@@ -10,9 +10,6 @@
     -  👨‍💻  I enjoy crafting elegant websites that seamlessly blend functionality and aesthetics
 -->
 
- <h3 align="left">Languages and Tools:</h3> 
-  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xumed001&langs_count=5&theme=tokyonight)]()
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
   
