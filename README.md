@@ -10,7 +10,7 @@
 
  <h3 align="left">Languages and Tools:</h3> 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xumed001)](https://github.com/xumed001/github-readme-stats) 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xumed001&langs_count=5&theme=tokyonight)]()
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
   
